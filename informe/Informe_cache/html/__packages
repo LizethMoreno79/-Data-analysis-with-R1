@@ -1,0 +1,16 @@
+base
+knitr
+rmdformats
+openxlsx
+stringr
+magrittr
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+forcats
+nortest
+kableExtra
